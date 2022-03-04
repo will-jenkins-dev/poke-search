@@ -1,0 +1,10 @@
+.policy-form-field {
+  display: flex;
+  justify-content: space-between;
+  margin: 5px 0;
+  width: 100%;
+}
+.form-error {
+  font-size: 0.8rem;
+  color: red;
+}

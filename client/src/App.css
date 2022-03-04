@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+.table-pets {
+  border-collapse: collapse;
+  display: inline-block;
+}
+.table-pets td {
+  border-top: 1px solid grey;
+  border-bottom: 1px solid grey;
+}
+.table-pets th {
+  padding: 5px 10px;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
